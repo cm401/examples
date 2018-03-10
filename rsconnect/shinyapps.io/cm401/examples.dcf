@@ -1,0 +1,10 @@
+name: examples
+title:
+username:
+account: cm401
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 288894
+bundleId: 1241273
+url: https://cm401.shinyapps.io/examples/
+when: 1519679570.81191
